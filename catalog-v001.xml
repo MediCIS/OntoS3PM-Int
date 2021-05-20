@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1621415264075" name="http://medicis.univ-rennes1.fr/ontologies/ontos3pm/OntoS3PM-int.owl" uri="OntoS3PM-Int.owl"/>
+    </group>
+</catalog>
